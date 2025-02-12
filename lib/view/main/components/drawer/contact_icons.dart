@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '../../../../res/constants.dart';
+import '../../../../res/constants/constants.dart';
 
 class ContactIcon extends StatelessWidget {
   const ContactIcon({super.key});

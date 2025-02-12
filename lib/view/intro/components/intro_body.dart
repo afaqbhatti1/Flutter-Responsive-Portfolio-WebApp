@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
-import '../../../res/constants.dart';
+import '../../../res/constants/constants.dart';
 import '../../../view model/responsive.dart';
 import 'animated_texts_componenets.dart';
 import 'combine_subtitle.dart';

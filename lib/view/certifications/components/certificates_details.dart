@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../../../model/certificate_model.dart';
-import '../../../res/constants.dart';
+import '../../../res/constants/constants.dart';
 import '../../../view model/getx_controllers/certification_controller.dart';
 
 class CertificateStack extends StatelessWidget {

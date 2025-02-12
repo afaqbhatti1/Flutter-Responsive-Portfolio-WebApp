@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_portfolio/res/constants.dart';
+import 'package:flutter_portfolio/res/constants/constants.dart';
 import 'package:flutter_portfolio/view%20model/getx_controllers/projects_controller.dart';
 import 'package:flutter_portfolio/view%20model/responsive.dart';
 import 'package:flutter_portfolio/view/projects/components/title_text.dart';

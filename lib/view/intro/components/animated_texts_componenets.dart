@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../res/constants.dart';
+import '../../../res/constants/constants.dart';
 import '../../../view model/responsive.dart';
 
 class AnimatedImageContainer extends StatefulWidget {

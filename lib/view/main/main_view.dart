@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_portfolio/view%20model/controller.dart';
-import 'package:flutter_portfolio/res/constants.dart';
+import 'package:flutter_portfolio/res/constants/constants.dart';
 import 'package:flutter_portfolio/view/main/components/navigation_bar.dart';
 import '../../view model/responsive.dart';
 import 'components/drawer/drawer.dart';

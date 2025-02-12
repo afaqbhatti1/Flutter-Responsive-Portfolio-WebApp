@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import '../../../../res/constants.dart';
+import '../../../../res/constants/constants.dart';
 
 class KnowledgeText extends StatelessWidget {
   const KnowledgeText({super.key, required this.knowledge});

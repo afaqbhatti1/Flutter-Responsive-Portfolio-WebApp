@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../../res/constants.dart';
+import '../../../../res/constants/constants.dart';
 
 class DrawerImage extends StatelessWidget {
   const DrawerImage({super.key});

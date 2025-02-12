@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
-import '../../../res/constants.dart';
+import '../../../res/constants/constants.dart';
 
 class SocialMediaIcon extends StatelessWidget {
   const SocialMediaIcon({super.key, required this.icon,  this.onTap});

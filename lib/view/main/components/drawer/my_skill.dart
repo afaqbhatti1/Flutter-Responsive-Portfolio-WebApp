@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../../res/constants.dart';
+import '../../../../res/constants/constants.dart';
 
 class AnimatedLinearProgressIndicator extends StatelessWidget {
   const AnimatedLinearProgressIndicator({super.key, required this.percentage, required this.title, this.image});
